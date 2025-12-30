@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナミダドロップ",
+  "base_artist": "Plastic Tree",
+  "createdAt": "2025-12-30T16:40:11.338679Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナミダドロップ",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_01_ナミダドロップ_Plastic_Tree.txt"
+    }
+  ]
+}
